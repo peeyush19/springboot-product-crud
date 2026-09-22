@@ -626,6 +626,20 @@ This project helped me practice:
 
 \- Git and GitHub
 
+## 📸 API Screenshots
+
+### Create Product
+
+![Create Product](screenshots/create-product.jpeg)
+
+### Get All Products
+
+![Get All Products](screenshots/get-products.jpeg)
+
+### Update Product
+
+![Update Product](screenshots/update-product.jpeg)
+
 
 
 \## 👨‍💻 Author
